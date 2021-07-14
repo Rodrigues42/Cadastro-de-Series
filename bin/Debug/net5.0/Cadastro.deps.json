@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cadastro/1.0.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.1",
+          "System.Runtime.Extensions": "4.3.1",
+          "enum-extension": "1.0.6"
+        },
+        "runtime": {
+          "Cadastro.dll": {}
+        }
+      },
+      "CompareNETObjects/4.63.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/KellermanSoftware.Compare-NET-Objects.dll": {
+            "assemblyVersion": "4.63.0.0",
+            "fileVersion": "4.63.0.0"
+          }
+        }
+      },
+      "CompareObject/1.0.0": {
+        "dependencies": {
+          "CompareNETObjects": "4.63.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CompareObject.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "enum-extension/1.0.6": {
+        "dependencies": {
+          "CompareObject": "1.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/EnumExtension.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.NETCore.Platforms/1.1.1": {},
+      "Microsoft.NETCore.Targets/1.1.3": {},
+      "System.Runtime/4.3.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.1",
+          "Microsoft.NETCore.Targets": "1.1.3"
+        }
+      },
+      "System.Runtime.Extensions/4.3.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.1",
+          "Microsoft.NETCore.Targets": "1.1.3",
+          "System.Runtime": "4.3.1"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompareNETObjects/4.63.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SpAJ/6XOvZJjqEY1BKV83bDvWI7A/zPem8GF3tl/FP5DtYGnQxmKvQCTU4oJ4WS0FxpT1qkb4YbF3wTa70FH/Q==",
+      "path": "comparenetobjects/4.63.0",
+      "hashPath": "comparenetobjects.4.63.0.nupkg.sha512"
+    },
+    "CompareObject/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nJlzsF132kSZ0wkf3FuQLQLazy4KGZNkpg0LNwhXt9ErFkZhcqdawTxIgRdtzcubP5YdJH2PDFk74JYHmAdTjw==",
+      "path": "compareobject/1.0.0",
+      "hashPath": "compareobject.1.0.0.nupkg.sha512"
+    },
+    "enum-extension/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tTeB1WZgqhxIF3CdvjC+t0WHXgyz4MoaaNoJl7fvl2ppSL568+SwwAkffGsWJrvkFL+g+QblPgc64q3YYYEYzg==",
+      "path": "enum-extension/1.0.6",
+      "hashPath": "enum-extension.1.0.6.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TMBuzAHpTenGbGgk0SMTwyEkyijY/Eae4ZGsFNYJvAr/LDn1ku3Etp3FPxChmDp5HHF3kzJuoaa08N0xjqAJfQ==",
+      "path": "microsoft.netcore.platforms/1.1.1",
+      "hashPath": "microsoft.netcore.platforms.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Wrmi0kJDzClwAC+iBdUBpEKmEle8FQNsCs77fkiOIw/9oYA07bL1EZNX0kQ2OMN3xpwvl0vAtOCYY3ndDNlhQ==",
+      "path": "microsoft.netcore.targets/1.1.3",
+      "hashPath": "microsoft.netcore.targets.1.1.3.nupkg.sha512"
+    },
+    "System.Runtime/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-abhfv1dTK6NXOmu4bgHIONxHyEqFjW8HwXPmpY9gmll+ix9UNo4XDcmzJn6oLooftxNssVHdJC1pGT9jkSynQg==",
+      "path": "system.runtime/4.3.1",
+      "hashPath": "system.runtime.4.3.1.nupkg.sha512"
+    },
+    "System.Runtime.Extensions/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qAtKMcHOAq9/zKkl0dwvF0T0pmgCQxX1rC49rJXoU8jq+lw6MC3uXy7nLFmjEI20T3Aq069eWz4LcYR64vEmJw==",
+      "path": "system.runtime.extensions/4.3.1",
+      "hashPath": "system.runtime.extensions.4.3.1.nupkg.sha512"
+    }
+  }
+}

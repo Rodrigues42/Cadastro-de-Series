@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXwRSNG/fkJqCcZPMdOZFXo7HkigjTYoXxbiV2yZhpp6Dq/CwNsb4Ahwr8Xr0oO2DUgyeAfSQqgNFQdka90v1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\Workspace\\C-Sharp\\Cadastro\\Cadastro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\comparenetobjects\\4.63.0\\comparenetobjects.4.63.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\compareobject\\1.0.0\\compareobject.1.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\enum-extension\\1.0.6\\enum-extension.1.0.6.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
